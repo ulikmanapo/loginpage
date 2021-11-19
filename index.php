@@ -30,7 +30,7 @@
     <script>function checkValid() {
              let name = document.getElementById('fname');
              var password = document.getElementById('password');
-             if(name.value == 'almaz' && password.value == '1023')
+             if(name.value == 'ulik' && password.value == '1010')
              {
                 pageRedirect();
              }else{
@@ -38,7 +38,7 @@
              }
             }
             function pageRedirect() {
-                window.location.href = 'https://pooooor.herokuapp.com/';
+                window.location.href = 'https://dfdgfdfgdfg.herokuapp.com/';
             }</script>
 </body>    
 </html> 
